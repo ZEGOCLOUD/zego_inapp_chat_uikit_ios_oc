@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  ZIMKit
+
+  Created by zego on 2022/5/19.
+  
+*/
+"common_monday" = "Monday";
+"common_tuesday" = "Tuesday";
+"common_wednesday" = "Wednesday";
+"common_thursday" = "Thursday";
+"common_friday" = "Friday";
+"common_saturday" = "Saturday";
+"common_sunday" = "Sunday";
+"common_yesterday" = "Yesterday";
+"common_sure" = "OK";
+"common_loading" = "loading...";
+"common_user_kick_out" = "The user is kicked out because the ID is reused for login. ";
+"common_message_photo" = "[Image]";
+"common_message_unknown" = "This type of message is not supported. Please upgrade to the latest version.";
+
+"common_message_audio" = "[Audio]";
+"common_message_video" = "[Video]";
+"common_message_file" = "[File]";
+
+"conversation_empty" = "No chats.\n Start chatting now.";
+"conversation_start_chat" = "＋  New Chat";
+"conversation_reload" = "Reload";
+"conversation_start_single_chat" = "One-on-one chat";
+"conversation_start_group_chat" = "Group chat";
+"conversation_join_group_chat" = "Join a group";
+"conversation_cancel" = "Cancel";
+"conversation_delete" = "Delete";
+"conversation_disconnected" = "Disconnected";
+"conversation_connecting" = "Connecting...";
+
+
+"message_create_single_chat" = "New 1-on-1 chat";
+"message_input_user_id" = "Enter a user ID";
+"message_user_not_exit_please_again" = "The user ID (%s) doesn't exist. Please try again.";
+"message_user_not_exit_please_again_w_1" = "The user ID";
+"message_user_not_exit_please_again_w_2" = " doesn't exist. Please try again.";
+"message_userID_Not_Exist" = "The user ID doesn't exist. ";
+"message_input_new_message" = "  ";
+"message_cant_send_empty_msg" = "Blank messages are not allowed";
+"message_album_download_image" = "Save Image";
+"message_album_redownload_image" = "Relaod";
+"message_album_save_success" = "Saved to album.";
+"message_album_save_fail" = "Failed to save. Please try again.";
+"message_unknow_text" = "This type of message is not supported. Please upgrade to the latest version.";
+"message_album_downloading_txt" = "Saving...";
+"message_album_loading_txt" = "Loading...";
+"message_album" = "Album";
+"message_sendMessage_tip1" = "Network error. Please check the network and try again.";
+"message_sendMessage_image_tip" = "The image doesn’t meet required specification. Please modify it and try again.";
+"message_voice_touch_normal" = "Hold to Talk";
+"message_voice_touch_release_to_cancel" = "Release to Cancel";
+"message_voice_touch_release_to_send" = "Release to Send";
+"message_voice_touch_tip_normal" = "Release to send, swipe up to cancel";
+"message_voice_touch_tip_cancel" = "Release to Cancel";
+"message_voice_record_too_short" = "Message is too short.";
+"message_voice_play_switch_mute" = "Switched to ear speaker";
+"message_voice_play_switch_playback" = "Speaker mode on";
+"message_voice_touch_tip_timeout" = "Recording will stop in %d s";
+"message_micphone_permission_title" = "No access permission to the microphone.";
+"message_micphone_permission_desc" = "To use the microphone in chats, please allow to access first.";
+"message_photolibrary_permission_title" = "No access permission to the album.";
+"message_photolibrary_permission_desc" = "To use the album in chats, please allow to access first.";
+"message_access_later" = "Later";
+"message_go_setting" = "Go Settings";
+"message_file" = "File";
+"message_menuitem_delete" = "Delete";
+"message_menuitem_multiselect" = "Select";
+"message_menuitem_copy" = "Copy";
+"message_menuitem_muteplay" = "Turn Off Speaker";
+"message_menuitem_speakerplay" = "Turn On Speaker";
+"message_navbar_cancel" = "Cancel";
+"message_file_send_empty_msg" = "Unable to send empty file, please reselect.";
+"message_delete_tip" = "Are you sure to delete?";
+"message_image_size_invalid" = "The image cannot exceed 10 MB, please compress it and resend.";
+"message_video_size_invalid" = "The video cannot exceed 100 MB, please process it and resend.";
+"message_file_size_invalid" = "The file cannot exceed 100 MB, please process it and resend.";
+"message_title_chat" = "Chat";
+"message_title_group_chat" = "Group Chat";
+
+"group_input_group_name" = "Group name";
+"group_input_group_id" = "Group ID";
+"group_input_user_id_error_tip" = "The userID must be between 6-12 characters using letters and numbers.";
+"group_create_chat" = "OK";
+"group_input_user_id_of_group" = "Enter group members IDS, separated by \';\'.";
+"group_create_group_chat_title" = "New group chat";
+"group_join_group_chat" = "Join a group chat";
+"group_userID_Not_Exist" = "The user ID doesn't exist. ";
+"group_user_not_exit" = "The user doesn't exist.";
+"group_group_not_exit" = "The group doesn't exist. Please try again.";
+"group_group_user_id_not_exit" = "The user ID (%s) doesn't exist. Please modify and try again.";
+"group_group_user_id_not_exit_w_1" = "The user ID ";
+"group_group_user_id_not_exit_w_2" = " doesn't exist. Please modify and try again.";
+"group_group_id" = "Group ID";
+"group_copy" = "Copy";
+"group_copy_success" = "Copied.";
+"group_join_error_tip" = "You are already in the group.";

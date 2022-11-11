@@ -1,0 +1,37 @@
+//
+//  ZIMKitDemoPrefixHeader.pch
+//  ZIMKitDemo
+//
+//  Created by zego on 2022/5/18.
+//
+
+#ifndef ZIMKitDemoPrefixHeader_pch
+#define ZIMKitDemoPrefixHeader_pch
+
+#ifdef __OBJC__
+
+#define weakify(obj) autoreleasepool{} __weak typeof(obj) obj##Weak = obj;
+#define strongify(obj) autoreleasepool{} __strong typeof(obj) obj = obj##Weak;
+
+#import <Masonry/Masonry.h>
+#import "UIImage+KitDemo.h"
+
+//#import <ZIMKit_OC/ZIMKit.h>
+#import "ZIMKit.h"
+
+#define LocalizedDemoKey @"ZIMKitDemoLocal"
+#define KitDemoLocalizedString(key,tbl,comment)  NSLocalizedStringFromTable(key, tbl, comment)
+
+//RGB color
+#define BSColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+#define BSRGBColor(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1]
+#define  kSCREEN_WIDTH  ([UIScreen mainScreen].bounds.size.width)
+#define  kSCREEN_HEIGHT  ([UIScreen mainScreen].bounds.size.height)
+#define UnReadView_Margin 4
+
+#define Is_Iphone (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define IS_iPhoneX (kSCREEN_WIDTH >=375.0f && kSCREEN_HEIGHT >=812.0f && Is_Iphone)
+
+#endif
+
+#endif /* ZIMKitDemoPrefixHeader_pch */

@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  ZIMKit
+
+  Created by zego on 2022/5/19.
+  
+*/
+"common_monday" = "周一";
+"common_tuesday" = "周二";
+"common_wednesday" = "周三";
+"common_thursday" = "周四";
+"common_friday" = "周五";
+"common_saturday" = "周六";
+"common_sunday" = "周日";
+"common_yesterday" = "昨天";
+"common_sure" = "确定";
+"common_loading" = "加载中...";
+"common_user_kick_out" = "重复登录，用户被踢出";
+"common_message_photo" = "[图片]";
+"common_message_unknown" = "暂不支持该类型消息，请升级到最新版本";
+
+"common_message_audio" = "[语音]";
+"common_message_video" = "[视频]";
+"common_message_file" = "[文件]";
+
+
+"conversation_empty" = "暂无消息\n快去发起聊天吧";
+"conversation_start_chat" = "＋  开始聊天";
+"conversation_reload" = "重新加载";
+"conversation_start_single_chat" = "发起单聊";
+"conversation_start_group_chat" = "发起群聊";
+"conversation_join_group_chat" = "加入群聊";
+"conversation_cancel" = "取消";
+"conversation_delete" = "删除";
+"conversation_disconnected" = "未连接";
+"conversation_connecting" = "连接中...";
+
+"message_create_single_chat" = "发起单聊会话";
+"message_input_user_id" = "请输入对方用户ID";
+"message_user_not_exit_please_again" = "用户ID:%@不存在，请返回重新添加";
+"message_user_not_exit_please_again_w_1" = "用户ID";
+"message_user_not_exit_please_again_w_2" = "不存在，请返回重新添加";
+"message_userID_Not_Exist" = "用户ID不存在";
+"message_input_new_message" = "输入新消息";
+"message_cant_send_empty_msg" = "不允许发送空白消息";
+"message_album_download_image" = "下载图片";
+"message_album_redownload_image" = "重新加载";
+"message_album_save_success" = "已保存到系统相册";
+"message_album_save_fail" = "图片下载失败，请重试";
+"message_unknow_text" = "暂不支持该消息类型,请升级到最新版本";
+"message_album_downloading_txt" = "下载中...";
+"message_album_loading_txt" = "加载中...";
+"message_album" = "相册";
+"message_sendMessage_tip1" = "网络异常，请检查网络后重试";
+"message_sendMessage_image_tip" = "图片不符合规格，请处理后再发送";
+"message_voice_touch_normal" = "按住 说话";
+"message_voice_touch_release_to_cancel" = "松开 取消";
+"message_voice_touch_release_to_send" = "松开 发送";
+"message_voice_touch_tip_normal" = "松开发送，上滑取消";
+"message_voice_touch_tip_cancel" = "松开手指，取消发送";
+"message_voice_record_too_short" = "说话时间太短";
+"message_voice_play_switch_mute" = "已切换听筒播放";
+"message_voice_play_switch_playback" = "已切换扬声器播放";
+"message_voice_touch_tip_timeout" = "%d秒后停止录制";
+"message_micphone_permission_title" = "麦克风权限未开启";
+"message_micphone_permission_desc" = "不开启麦克风权限，无法在聊天功能中使用";
+"message_photolibrary_permission_title" = "相册权限未开启";
+"message_photolibrary_permission_desc" = "不开启相册权限，无法在聊天功能中使用";
+"message_access_later" = "以后再说";
+"message_go_setting" = "去开启";
+"message_file" = "文件";
+"message_menuitem_delete" = "删除";
+"message_menuitem_multiselect" = "多选";
+"message_menuitem_copy" = "复制";
+"message_menuitem_muteplay" = "听筒播放";
+"message_menuitem_speakerplay" = "扬声器播放";
+"message_navbar_cancel" = "取消";
+"message_file_send_empty_msg" = "无法发送空文件，请重新选择";
+"message_delete_tip" = "确认删除?";
+"message_image_size_invalid" = "图片不支持超过10MB，请压缩后重新发送";
+"message_video_size_invalid" = "视频不支持超过100MB，请处理后重新发送";
+"message_file_size_invalid" = "文件不支持超过100MB，请处理后重新发送";
+"message_title_chat" = "聊天";
+"message_title_group_chat" = "群聊";
+
+"group_input_group_name" = "输入群聊名称";
+"group_input_group_id" = "输入群ID";
+"group_input_user_id_error_tip" = "请输入6–12位英文或数字的用户ID";
+"group_create_chat" = "发起会话";
+"group_input_user_id_of_group" = "输入群成员的用户ID，\';\'英文分号隔开";
+"group_create_group_chat_title" = "发起群聊会话";
+"group_join_group_chat" = "加入群聊会话";
+"group_userID_Not_Exist" = "用户ID不存在";
+"group_user_not_exit" = "用户不存在";
+"group_group_not_exit" = "群不存在";
+"group_group_user_id_not_exit" = "群成员用户ID %s 不存在，请返回";
+"group_group_user_id_not_exit_w_1" = "群成员用户";
+"group_group_user_id_not_exit_w_2" = " 不存在，请返回重新添加";
+"group_group_id" = "群聊ID";
+"group_copy" = "复制";
+"group_copy_success" = "复制成功";
+"group_join_error_tip" = "你已在该群组";
+

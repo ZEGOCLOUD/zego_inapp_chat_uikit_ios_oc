@@ -1,0 +1,22 @@
+/* 
+  ZIMKitDemoLocal.strings
+  ZIMKitDemo
+
+  Created by zego on 2022/6/29.
+  
+*/
+"demo_message" = "消息总数";
+"demo_login_hint" = "输入用户id";
+"demo_login" = "登录";
+"demo_user_name" = "用户名为: ";
+"demo_welcome" = "Hi，\n欢迎使用Zego In-app chat";
+"demo_input_user_id_error_tips" = "请输入6–12位英文或数字的用户ID";
+"demo_login_error_tips" = "请输入6–12位英文或数字的用户ID";
+"demo_user_id_login" = "用户ID登录";
+"confirm" = "确认";
+"demo_user_kick_out" = "重复登录，用户被踢出";
+"demo_user_login_tip1" = "网络异常，请检查网络后重试";
+
+"conversation_start_single_chat" = "发起单聊";
+"conversation_start_group_chat" = "发起群聊";
+"conversation_join_group_chat" = "加入群聊";

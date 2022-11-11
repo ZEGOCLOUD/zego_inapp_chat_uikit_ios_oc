@@ -1,0 +1,23 @@
+/* 
+  ZIMKitDemoLocal.strings
+  ZIMKitDemo
+
+  Created by zego on 2022/6/29.
+  
+*/
+
+"demo_message" = "Chats";
+"demo_login_hint" = "User ID";
+"demo_login" = "Log In";
+"demo_user_name" = "Username: ";
+"demo_welcome" = "Hi, \nwelcome to ZEGOCLOUD \nIn-app chat";
+"demo_input_user_id_error_tips" = "6-12 bit userID using letters and numbers.";
+"demo_login_error_tips" = "The userID must be between 6-12 characters using letters and numbers.";
+"demo_user_id_login" = "User Login";
+"confirm" = "OK";
+"demo_user_kick_out" = "You've been logged out because the ID is reused for login.";
+"demo_user_login_tip1" = "Network error. Please check the network and try again.";
+
+"conversation_start_single_chat" = "One-on-one chat";
+"conversation_start_group_chat" = "Group chat";
+"conversation_join_group_chat" = "Join a group";
