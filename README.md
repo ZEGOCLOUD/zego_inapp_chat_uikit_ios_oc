@@ -42,7 +42,7 @@ In-app Chat UIKit can be used on Android, iOS, and Web client apps.
 
 
 
-<img src="https://doc.oa.zego.im/Pics/ZIMKit/ZIMLKit_image1_EN.png" width="20%">
+<img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/ZIMLKit_image1_EN.png" width="20%">
 
 
 
@@ -50,7 +50,7 @@ In-app Chat UIKit can be used on Android, iOS, and Web client apps.
 
 
 
-<img src="https://doc.oa.zego.im/Pics/ZIMKit/ZIMLKit_image2_EN.png" width="20%">
+<img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/ZIMLKit_image2_EN.png" width="20%">
 
 
 
@@ -58,7 +58,7 @@ In-app Chat UIKit can be used on Android, iOS, and Web client apps.
 
 
 
-<img src="https://doc.oa.zego.im/Pics/ZIMKit/ZIMLKit_image3_EN.png" width="20%">
+<img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/ZIMLKit_image3_EN.png" width="20%">
 
 
 

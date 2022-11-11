@@ -25,7 +25,7 @@ The following describes how to run the sample code of the In-app Chat UIKit.
 
 1. In App Store, search and download the Xcode.
 
-   <img src="https://doc.oa.zego.im/Pics/iOS/GoClass/appstore-xcode.png" width="40%">
+   <img src="https://storage.zego.im/sdk-doc/Pics/iOS/GoClass/appstore-xcode.png" width="40%">
 
 2. Download and extract the sample code, in Terminal, navigate to the `../Samples/ZIMKitDemo` directory, and run the following:
 
@@ -35,7 +35,7 @@ The following describes how to run the sample code of the In-app Chat UIKit.
 
 3. In Xcode, open the `ZIMKitDemo.xcworkspace` file.
 
-   <img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/select_file.png" width="80%">
+   <img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/select_file.png" width="80%">
 
 4. Log in to your Apple ID account.
 
@@ -43,33 +43,33 @@ The following describes how to run the sample code of the In-app Chat UIKit.
 
    b. Select the **Accounts** tab, click the **+** button in the lower left, then select **App ID**, and click **Continue**.
 
-      <img src="https://doc.oa.zego.im/Pics/iOS/ZegoExpressEngine/Common/xcode-account.png" width="80%">
+      <img src="https://storage.zego.im/sdk-doc/Pics/iOS/ZegoExpressEngine/Common/xcode-account.png" width="80%">
 
    c. Enter your Apple ID and Password to log in.
 
-      <img src="https://doc.oa.zego.im/Pics/iOS/GoClass/xcode-login-apple-id.png" width="80%">
+      <img src="https://storage.zego.im/sdk-doc/Pics/iOS/GoClass/xcode-login-apple-id.png" width="80%">
 
 5. Modify the Bundle Identifier and your developer certificate. 
 
    a. In Xcode, select the `ZIMKitDemo` project.  
 
-      <img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/demo_target.png" width="80%">
+      <img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/demo_target.png" width="80%">
 
    b. Select the target project, click **Signing & Capabilities**, and in **Team** field, select your developer certificate. 
 
-      <img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/team_cert.png" width="80%">
+      <img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/team_cert.png" width="80%">
 
 6. Modify the `KeyCenter.swift` file under the `ZIMKitDemo/KeyCenter` folder with the AppID and AppSign you get from ZEGOCLOUD Admin Console.
 
-   <img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/keyCenter_1.png" width="80%">
+   <img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/keyCenter_1.png" width="80%">
 
 7. Connect the iOS device to the computer, click the **Any iOS Device** and select your iOS device in the pop-up window.
 
-   <img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/demo_device_1.png" width="80%">
+   <img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/demo_device_1.png" width="80%">
 
 8. Click the **Run** button to compile and run the sample code.
 
-   <img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/run_1.png" width="80%">
+   <img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/run_1.png" width="80%">
 
 
 
@@ -77,14 +77,14 @@ Congratulations! So far, you have finished all the steps, and this is what you g
 
 
 
-<img src="https://doc.oa.zego.im/Pics/ZIMKit/IOS/login.jpeg" width=200/>
+<img src="https://storage.zego.im/sdk-doc/Pics/ZIMKit/IOS/login.jpeg" width=200/>
 
 
 
 ## More to explore
 
-* To get started swiftly, follow the steps in this doc: [Integrate the SDK](https://docs.zegocloud.com/article/14860)
-* To explore more customizable components, check this out: [Component overview](https://docs.zegocloud.com/article/14861)
+* To get started swiftly, follow the steps in this doc: [Integrate the SDK](https://docs.zegocloud.com/article/14663)
+* To explore more customizable components, check this out: [Component overview](https://docs.zegocloud.com/article/14666)
 
 
 
